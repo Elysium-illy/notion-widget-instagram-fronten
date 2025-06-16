@@ -3,7 +3,7 @@
 // --- CONFIGURATION À MODIFIER ---
 // 1. Remplacez par l'URL de votre projet Vercel (obtenue après le déploiement initial de la partie 3.1).
 // Exemple : 'https://mon-super-widget.vercel.app'
-const VERCEL_PROJECT_URL = 'https://notion-widget-instagram-feed.vercel.app';
+const VERCEL_PROJECT_URL = 'https://notion-widget-instagram-feed-elysium-illys-projects.vercel.app/';
 
 // 2. Remplacez par l'ID de votre base de données Notion (obtenue dans la partie 1.3.1).
 // Exemple : 'a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6'
